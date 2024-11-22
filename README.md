@@ -31,6 +31,8 @@ Umbrella Bot is a versatile Telegram bot that provides weather updates, company 
 4. Run the bot:
 - python main.py
 
+---
+
 ## Usage
 - Use /start to begin interaction.
 - Use /help to see available commands.
