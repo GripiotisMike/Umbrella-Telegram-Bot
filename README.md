@@ -21,7 +21,7 @@ Umbrella Bot is a versatile Telegram bot that provides weather updates, company 
 - python-dotenv
 - requests
 
-3. Create a .env file and add your credentials
+3. Replace your credentials in .env file:
 - TELEGRAM_TOKEN=your-telegram-token
 - BOT_USERNAME=@your-bot-username
 - ALPHA_API_KEY=your-alpha-api-key
